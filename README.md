@@ -2,4 +2,4 @@
 
 ### Made in Ignite, provided by [Rocketseat](https://www.rocketseat.com.br/)
 
-### NodeJs - Chapter 1
+### NodeJs, Chapter 1 - Main Challenge
